@@ -2,7 +2,7 @@
 
 ## Searching
 1. Linear Search
-2. Binary Search
+2. [Binary Search](https://github.com/DenisBuserski/Algorithms/blob/main/Searching/BinarySearch.java)
 3. Deoth First Search
 4. Breath First Search
 
